@@ -1,7 +1,12 @@
 # Diagrams
 ## WeGoGym Database
 ### Chat
-Table 명: Chatroom
+- **Requirement**
+    1. one on one chat
+    1. group chat
+    1. group workout creation
+    1. image sharing
+
 
 
 ### User
